@@ -12,6 +12,7 @@
 - OS: Arco liux
 - WMs:Leftwm,Xmonad,Dwm
 - Editor: Vim, Emacs(Doom), VScode
+- Term: Alacritty
 
 ## Want to Learn
 - Assembly
