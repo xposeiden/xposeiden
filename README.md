@@ -1,16 +1,20 @@
-### Hi there 👋
+# Super Pro Alpha Giga Chad Programmer Here
 
-<!--
-**xposeiden/xposeiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Constantly wanting learning new things (Yes i am very unique!)
 
-Here are some ideas to get you started:
+# Programming Shtik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- C(Kinda)
+- JS
+- Py(eww)
+## System
+- OS: Arco liux
+- WMs:Leftwm,Xmonad,Dwm
+- Editor: Vim, Emacs(Doom), VScode
+
+## Want to Learn
+- Assembly
+- C++
+- Rust
+- Haskell
