@@ -1,4 +1,4 @@
-# Super Pro Alpha Giga Chad Programmer Here
+# Hey, I like to programm sometimes
 
 - Constantly wanting learning new things (Yes i am very unique!)
 
@@ -9,21 +9,17 @@
 - JS
 - Py(eww)
 ## System
-- OS: Arco liux
-- WMs:Leftwm,Xmonad,Dwm
+- OS: Arch
+- WM:AwesomeWM, DWM,
 - Editor: Vim, Emacs(Doom), VScode
 - Term: Alacritty
+- Specs
+  - CPU: I7-8750H 4.1 Ghz
+  - GPU: UHD Graphics 630
+  - RAM: 8GB
 
 ## Want to Learn
 - Assembly
 - C++
 - Rust
 - Haskell
-
-# About
-- Age: 16
-- Weight: 225lbs
-- Height: 6ft
-- Squat: 275 lbs
-- Deadlift: 315 lbs
-- Bench: 195 lbs
