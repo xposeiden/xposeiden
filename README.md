@@ -1,4 +1,4 @@
-# Hey, I like to programm sometimes
+# Hey 👋, I like to programm sometimes 
 
 - Constantly wanting learning new things (Yes i am very unique!)
 
